@@ -2,7 +2,7 @@ cd /d %~dp0
 
 set a=%date%
 
-date 25-12-2018
+date 2018-12-25
 
 start Xftp.exe
 
